@@ -1,0 +1,6 @@
+google:
+    clientId: 692047728188-821ou9d8q9tggci68h4bs5bg707cjr7p.apps.googleusercontent.com
+    clientSecret: WNv5PzJOOHwskj2yVEQ9n_Um
+    accessTokenUri: https://www.googleapis.com/oauth2/v3/token
+    userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+    redirectUri: http://localhost:8081/google-login
